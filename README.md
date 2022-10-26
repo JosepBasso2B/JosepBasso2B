@@ -26,20 +26,20 @@
 <table style="width:100%">
   <tr>
   <td>
-	<a href="https://www.artstation.com/">
-  		<img src=">
+	<a href="https://www.artstation.com/artwork/3qYZnY/">
+  		<img src="https://raw.githubusercontent.com/JosepBasso2B/JosepBasso2B/main/Images/sully-front.jpg" width=500>
 	</a>
 	</td>
   <td>
-	<a href="https://www.labyrinthinegame.com/">
-  		<img src="https://raw.githubusercontent.com/danigomezcev/danigomezcev/main/games/labyrinthine.png">
+	<a href="https://www.artstation.com/artwork/o2w13B.com/">
+  		<img src="https://raw.githubusercontent.com/JosepBasso2B/JosepBasso2B/main/Images/sully-port.jpg" width=500>
 	</a>
 	</td>
   </tr>
   <tr>
   <td>
-	<a href="https://pokemonmasters-game.com/">
-  		<img src="https://raw.githubusercontent.com/danigomezcev/danigomezcev/main/games/pokemonmasters.png">
+	<a href="https://www.artstation.com/artwork/vJXQQA.com/">
+  		<img src="https://raw.githubusercontent.com/JosepBasso2B/JosepBasso2B/main/Images/sully-baymaxprinc.jpg" width=500>
 	</a>
 	</td>
 	<td>
