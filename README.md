@@ -2,19 +2,62 @@
 ### Y soy Character artist Y Modelador 3D
 
 #### Estoy estudiando Animación 3D, juegos y entornos interactivos en <img src="https://raw.githubusercontent.com/JosepBasso2B/JosepBasso2B/main/CevLogo.png" width=50>
-
+[![](https://img.shields.io/badge/Instagram-FFFFFF?style=social&logo=instagram&logoColor=E4405F)](https://www.instagram.com/josepbc164)
+[![](https://img.shields.io/badge/Artstation-FFFFFF?style=social&logo=artstation&logoColor=#13AFF0)](https://www.artstation.com/pvpsullivan)
 
 
 #### Softwares que utilizo:
 
-[![Unreal](https://img.shields.io/badge/Unreal-999999?style=for-the-badge&logo=unrealengine&logoColor=white&labelColor=101010)]()
+[![Github](https://img.shields.io/badge/Github_Desktop-EA84E8?style=for-the-badge&logo=github&logoColor=white&labelColor=871585)]()
+<br>
+[![Unity](https://img.shields.io/badge/Unity-999999?style=for-the-badge&logo=unity&logoColor=white&labelColor=101010)]()
 <br>
 [![Audition](https://img.shields.io/badge/Adobe_Audition-7F7AC9?style=for-the-badge&logo=adobeaudition&logoColor=white&labelColor=262076)]()
-<br>
-[![Github](https://img.shields.io/badge/Github_Desktop-EA84E8?style=for-the-badge&logo=github&logoColor=white&labelColor=871585)]()
 <br>
 [![Premiere](https://img.shields.io/badge/Adobe_Premiere-7F7AC9?style=for-the-badge&logo=adobepremierepro&logoColor=white&labelColor=262076)]()
 <br>
 [![Autodesk](https://img.shields.io/badge/Maya-0696D7?style=for-the-badge&logo=autodesk&logoColor=white&labelColor=003D75)]()
 <br>
+[![Zotero](https://img.shields.io/badge/Zbrush-000000?style=for-the-badge&logo=zotero&logoColor=white&labelColor=000000)]()
+<br>
 
+## Trabajos realizados:
+
+<table style="width:100%">
+  <tr>
+  <td>
+	<a href="https://www.artstation.com/">
+  		<img src=">
+	</a>
+	</td>
+  <td>
+	<a href="https://www.labyrinthinegame.com/">
+  		<img src="https://raw.githubusercontent.com/danigomezcev/danigomezcev/main/games/labyrinthine.png">
+	</a>
+	</td>
+  </tr>
+  <tr>
+  <td>
+	<a href="https://pokemonmasters-game.com/">
+  		<img src="https://raw.githubusercontent.com/danigomezcev/danigomezcev/main/games/pokemonmasters.png">
+	</a>
+	</td>
+	<td>
+	<a href="https://disneymirrorverse.com/">
+  		<img src="https://raw.githubusercontent.com/danigomezcev/danigomezcev/main/games/mirrorverse.png">
+	</a>
+	</td>
+	</td>
+    </tr>
+    <tr>
+    <td>
+	<a href="https://www.devourgame.com/">
+  		<img src="https://raw.githubusercontent.com/danigomezcev/danigomezcev/main/games/devour.png">
+	</a>
+	</td>
+	<td>
+	<a href="https://kineticgames.co.uk/">
+  		<img src="https://raw.githubusercontent.com/danigomezcev/danigomezcev/main/games/phasmophobia.png">
+	</a>
+  </tr>
+</table>
