@@ -43,8 +43,8 @@
 	</a>
 	</td>
 	<td>
-	<a href="https://disneymirrorverse.com/">
-  		<img src="https://raw.githubusercontent.com/danigomezcev/danigomezcev/main/games/mirrorverse.png">
+	<a href="https://www.artstation.com/artwork/YKQe4K.com/">
+  		<img src="https://raw.githubusercontent.com/JosepBasso2B/JosepBasso2B/main/Images/pvpsullivan-1b-josepbasso-final-001.jpg" width=500>
 	</a>
 	</td>
 	</td>
