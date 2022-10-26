@@ -3,7 +3,7 @@
 
 #### Estoy estudiando Animación 3D, juegos y entornos interactivos en <img src="https://raw.githubusercontent.com/JosepBasso2B/JosepBasso2B/main/CevLogo.png" width=50>
 
-?style=plastic&logo=appveyor
+
 
 #### Softwares que utilizo:
 
@@ -15,6 +15,6 @@
 <br>
 [![Premiere](https://img.shields.io/badge/Adobe_Premiere-7F7AC9?style=for-the-badge&logo=adobepremierepro&logoColor=white&labelColor=262076)]()
 <br>
-[![OBS](https://img.shields.io/badge/OBS-999999?style=for-the-badge&logo=obsstudio&logoColor=white&labelColor=101010)]()
+[![Autodesk](https://img.shields.io/badge/Maya-0696D7?style=for-the-badge&logo=autodesk&logoColor=white&labelColor=003D75)]()
 <br>
 
