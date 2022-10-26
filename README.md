@@ -23,10 +23,10 @@
 [![Adobe](https://img.shields.io/badge/Substance-F5B026?style=for-the-badge&logo=adobe&logoColor=white&labelColor=BD7213)]()
 <br>
 #### Skills:
--Paciencia en los trabajos largos
--Trabajador en equipo
--Comunicador
--Aportar buen ambiente 
+- Paciencia en los trabajos largos
+- Trabajador en equipo
+- Comunicador
+- Aportar buen ambiente 
 
 ## Trabajos realizados:
 
