@@ -1,7 +1,7 @@
 # Hola, me llamo Josep
 ### Y soy Character artist Y Modelador 3D
 
-#### Estoy estudiando Animación 3D, juegos y entornos interactivos en <img src="https://raw.githubusercontent.com/JosepBasso2B/JosepBasso2B/main/CevLogo.png" width=50>
+#### Estoy estudiando Animación 3D, juegos y entornos interactivos en <img src="https://raw.githubusercontent.com/JosepBasso2B/JosepBasso2B/main/Images/CevLogo.png" width=50>
 [![](https://img.shields.io/badge/Instagram-FFFFFF?style=social&logo=instagram&logoColor=E4405F)](https://www.instagram.com/josepbc164)
 [![](https://img.shields.io/badge/Artstation-FFFFFF?style=social&logo=artstation&logoColor=#13AFF0)](https://www.artstation.com/pvpsullivan)
 
@@ -38,19 +38,19 @@
 	</a>
 	</td>
   <td>
-	<a href="https://www.artstation.com/artwork/o2w13B.com/">
+	<a href="https://www.artstation.com/artwork/o2w13B/">
   		<img src="https://raw.githubusercontent.com/JosepBasso2B/JosepBasso2B/main/Images/sully-port.jpg" width=500>
 	</a>
 	</td>
   </tr>
   <tr>
   <td>
-	<a href="https://www.artstation.com/artwork/vJXQQA.com/">
+	<a href="https://www.artstation.com/artwork/vJXQQA/">
   		<img src="https://raw.githubusercontent.com/JosepBasso2B/JosepBasso2B/main/Images/sully-baymaxprinc.jpg" width=500>
 	</a>
 	</td>
 	<td>
-	<a href="https://www.artstation.com/artwork/YKQe4K.com/">
+	<a href="https://www.artstation.com/artwork/YKQe4K/">
   		<img src="https://raw.githubusercontent.com/JosepBasso2B/JosepBasso2B/main/Images/pvpsullivan-1b-josepbasso-final-001.jpg" width=500>
 	</a>
 	</td>
